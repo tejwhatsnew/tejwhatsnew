@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejwhatsnew
-- 👀 I’m interested in AR,AI,Swift,Flutter
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in AR/VR, Java, Mobile Application Development 
+- 🌱 I’m currently learning AR/VR
 
 <!---
 tejwhatsnew/tejwhatsnew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
