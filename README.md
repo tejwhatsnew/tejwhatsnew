@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tejas Padhiyar(@tejwhatsnew)
-- 👀 I’m interested in AR/VR, Java, and mobile application development.
-- 💻 I’m currently exploring AR/VR, NLP and learning DSA.
+- 👀 I’m interested in AR/VR, and Java.
+- 💻 I’m currently exploring AR/VR, NLP, and learning DSA.
 - ❄️ I like to work in different and new domains.
 
 <!---
